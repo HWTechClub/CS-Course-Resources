@@ -31,12 +31,13 @@
 ## Introduction to Computer Systems (F27CS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27CS_202122.pdf)
 
-## Software Development 2 (F27SB)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F27SB_202122.pdf)
-
 ### ARM Assembly Language
 - [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=8236s)<br>
 (By far the best video so far that has all the concepts needed in one place)
+
+## Software Development 2 (F27SB)
+[Course Details](https://www.hw.ac.uk/documents/pams/202122/F27SB_202122.pdf)
+
 
 ## Web Design and Databases (F27WD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27WD_202122.pdf)
