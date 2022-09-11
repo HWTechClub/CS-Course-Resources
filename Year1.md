@@ -55,3 +55,7 @@
 
 - [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
 - [Introduction to CSS](https://www.linkedin.com/learning/introduction-to-css-14934735?u=2374954) - LinkedIn Learning Course
+
+### JavaScript
+
+- [JavaScript Tutorial](https://www.w3schools.com/js/) - W3Schools
