@@ -45,3 +45,8 @@
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27WD_202122.pdf)
 
 - ### [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - freeCodeCamp
+
+### HTML
+
+- [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
+- [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4?u=2374954) - LinkedIn Learning Course
