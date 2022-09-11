@@ -27,8 +27,8 @@
 ## Web Programming (F28WP)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28WP_202122.pdf)
 
-- [Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- [Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
+- [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - freeCodeCamp
+- [Web Development](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI) - Udacity
 
 ---
 
