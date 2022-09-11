@@ -44,4 +44,4 @@
 ## Web Design and Databases (F27WD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27WD_202122.pdf)
 
-- 
+- ### [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - freeCodeCamp
