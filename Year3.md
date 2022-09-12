@@ -3,7 +3,7 @@
 
 # Semester 1
 
-## Artificial Intelligence and Intelligent Agents (F20AI)
+## Artificial Intelligence and Intelligent Agents (F29AI)
 
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29AI_202122.pdf)
 
