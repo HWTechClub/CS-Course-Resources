@@ -11,6 +11,15 @@
 ## Data Mining and Machine Learning (F20DL)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20DL_202122.pdf)
 
+- [Basic Python](https://cognitiveclass.ai/courses/python-for-data-science)<br>
+This is very brief, and should be followed by completing a further full Python online course of your choice.
+
+<!-- - Basic Knowledge of Python including Python libraries like
+  - NumP
+  - Pandas
+  - Matplotlib
+  - Scikit-Learn & TensorFlow is a plus -->
+
 ## 3D Graphics and Animation (F20GA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20GA_202122.pdf)
 
