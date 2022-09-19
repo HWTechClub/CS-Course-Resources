@@ -10,13 +10,14 @@
 ## Programming Languages (F28PL)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28PL_202122.pdf)
 
-**For Windows Users:** Make sure you have **WSL 2** (**W**indows **S**ubsystem for **L**inux) setup on your machine with a Linux OS installed (usually Ubuntu LTS) before the course begins to have a smoother experience.
+**For Windows Users:** Make sure you have [**WSL 2**](https://learn.microsoft.com/en-us/windows/wsl/install#upgrade-version-from-wsl-1-to-wsl-2) (**W**indows **S**ubsystem for **L**inux) setup on your machine with a Linux OS installed (usually Ubuntu LTS) before the course begins to have a smoother experience.
 
 ### Python
 - [Learning Python](https://www.linkedin.com/learning/learning-python-14393370?u=2374954) (LinkedIn Learning Course)
+- [F28PL Python](https://github.com/KayvanKarim/F28PLPython) (Python Code Samples from the lectures)
 
 ### OCaml
-
+- [OCaml Documentation](https://ocaml.org/docs/first-hour)
 
 ### Prolog
 
