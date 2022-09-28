@@ -74,6 +74,11 @@ This is very brief, and should be followed by completing a further full Python o
 ## Applied Text Analytics (F20AA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20AA_202122.pdf)
 
+- Basic knowledge of Machine Learning models and Evaluation Criteria
+  - Preferably take [F20/F21DL](#data-mining-and-machine-learning-f20dl) in Semester 1
+- Knowledge of Machine Learning libraries i.e. Scikit-Learn & Tensorflow 📈
+- [Scikit-Learn Tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+
 ## Advanced Interaction Design (F20AD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F2_202122.pdf)
 
