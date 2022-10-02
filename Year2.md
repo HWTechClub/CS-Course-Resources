@@ -54,7 +54,7 @@
 - [Learning C](https://www.linkedin.com/learning/learning-c-5?u=2374954) (LinkedIn Learning Course)
 - [C Essential Training](https://www.linkedin.com/learning/c-essential-training?u=2374954) (LinkedIn Learning Course)
 - [C Programming for Embedded Applications](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235?u=2374954) (LinkedIn Learning Course)
-- [Learning C Programming with Notes, Practice Questions & Exercises] (https://youtu.be/irqbmMNs2Bo) (YouTube Video)
+- [Learning C Programming with Notes, Practice Questions & Exercises](https://youtu.be/irqbmMNs2Bo) (YouTube Video)
 
 ### ARM Assembly Language
 (yes, it doesn't run away after [F27CS](Year1.md#introduction-to-computer-systems-f27cs))
