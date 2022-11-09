@@ -59,3 +59,5 @@
 ### JavaScript
 
 - [JavaScript Tutorial](https://www.w3schools.com/js/) - W3Schools
+- [JavaScript Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - Net Ninja(Youtube)
+- [JavaScript Tutorial](https://www.w3schools.com/js/) - W3Schools
