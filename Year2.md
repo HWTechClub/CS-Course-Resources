@@ -15,11 +15,13 @@
 ### Python
 - [Learning Python](https://www.linkedin.com/learning/learning-python-14393370?u=2374954) (LinkedIn Learning Course)
 - [F28PL Python](https://github.com/KayvanKarim/F28PLPython) (Python Code Samples from the lectures)
+- [Python For Everybody](https://www.coursera.org/specializations/python?) (Coursera)
 
 ### OCaml
 - [OCaml Documentation](https://ocaml.org/docs/first-hour)
 
 ### Prolog
+- [Logic Programming With Prolog (Book)](https://link-springer-com.ezproxy1.hw.ac.uk/book/10.1007/978-1-4471-5487-7) - SpringerLink
 
 ## Introduction to Data Structures and Algorithms (F28SG)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28SG_202122.pdf)
@@ -38,8 +40,13 @@
 ## Data Structures and Algorithms (F28DA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28DA_202122.pdf)
 
+### Hashing
+- [Hashing Concepts](https://www.youtube.com/playlist?list=PLprfEn_dJT08ResHBUWgoS9qXnk29iHoM)
+
 ## Database Management Systems (F28DM)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28DM_202122.pdf)
+
+- [Database Management Systems - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 
 ## Hardware-Software Interface (F28HS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28HS_202122.pdf)
