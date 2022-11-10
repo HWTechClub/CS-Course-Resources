@@ -21,7 +21,7 @@
 - [OCaml Documentation](https://ocaml.org/docs/first-hour)
 
 ### Prolog
-- [Logic Programming With Prolog](https://link-springer-com.ezproxy1.hw.ac.uk/book/10.1007/978-1-4471-5487-7) - SpringerLink
+- [Logic Programming With Prolog (Book)](https://link-springer-com.ezproxy1.hw.ac.uk/book/10.1007/978-1-4471-5487-7) - SpringerLink
 
 ## Introduction to Data Structures and Algorithms (F28SG)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28SG_202122.pdf)
@@ -46,7 +46,7 @@
 ## Database Management Systems (F28DM)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28DM_202122.pdf)
 
-- [DBMS Concepts](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+- [Database Management Systems - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 
 ## Hardware-Software Interface (F28HS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28HS_202122.pdf)
