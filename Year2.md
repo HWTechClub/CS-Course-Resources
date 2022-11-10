@@ -15,7 +15,7 @@
 ### Python
 - [Learning Python](https://www.linkedin.com/learning/learning-python-14393370?u=2374954) (LinkedIn Learning Course)
 - [F28PL Python](https://github.com/KayvanKarim/F28PLPython) (Python Code Samples from the lectures)
-- [Python For Everybody](https://www.coursera.org/specializations/python?)
+- [Python For Everybody](https://www.coursera.org/specializations/python?) (Coursera)
 
 ### OCaml
 - [OCaml Documentation](https://ocaml.org/docs/first-hour)
