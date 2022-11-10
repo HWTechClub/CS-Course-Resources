@@ -8,7 +8,7 @@
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F17LP_202122.pdf)
 
 - [Stanford Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
-- [Logic And Proof Concepts](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on)
+- [Logic 101 - Full Course](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on)
 
 ## Introduction to Interaction Design (F27ID)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27ID_202122.pdf)
@@ -25,7 +25,7 @@
 - [Learning Java (LinkedIn Learning Course)](https://www.linkedin.com/learning/learning-java-4?u=2374954)
 - [Full Java Tutorials](https://www.javatpoint.com/java-tutorial) - JavaTPoint
 - [Java Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al) <br>
-(For year 1 till video number 30)
+(till video number 30)
 ---
 
 # Semester 2
@@ -33,8 +33,8 @@
 ## Discrete Mathematics (F17SC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F17SC_202122.pdf)
 
-- [Discrete Mathematics](https://www.youtube.com/playlist?list=PL5cAdrrdzlpF1vgdmulg5kSRvMOsaboXB)
-- [Discrete Math](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+- [Discrete Mathematics - ameenaacademy](https://www.youtube.com/playlist?list=PL5cAdrrdzlpF1vgdmulg5kSRvMOsaboXB)
+- [Discrete Math 1 - TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 
 ## Introduction to Computer Systems (F27CS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27CS_202122.pdf)
@@ -42,7 +42,7 @@
 ### ARM Assembly Language
 - [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=8236s)<br>
 (By far the best video so far that has all the concepts needed in one place)
-- [ARM Concepts](https://www.youtube.com/playlist?list=PLgIjRMdFBe6uKsHSSPyPSno9x4emd0c4p)<br>
+- [ARM7 Instructions/Programming](https://www.youtube.com/playlist?list=PLgIjRMdFBe6uKsHSSPyPSno9x4emd0c4p)<br>
 (Good for understandiung ARM basic concepts)
 
 ## Software Development 2 (F27SB)
@@ -91,4 +91,4 @@
 
 ### SQL
 - [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?autoplay=true&u=2374954) - LinkedIn Learning Course
-- [SQL Tutorial](https://www.w3schools.com/mysql/default.asp) - W#Schools
+- [SQL Tutorial](https://www.w3schools.com/mysql/default.asp) - W3Schools
