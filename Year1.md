@@ -24,7 +24,7 @@
 
 - [Learning Java (LinkedIn Learning Course)](https://www.linkedin.com/learning/learning-java-4?u=2374954)
 - [Full Java Tutorials](https://www.javatpoint.com/java-tutorial) - JavaTPoint
-- [Java Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al) <br>
+- [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al) <br>
 (till video number 30)
 ---
 
@@ -48,8 +48,8 @@
 ## Software Development 2 (F27SB)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27SB_202122.pdf)
 
-### OOPS
-- [Java OOPS Concepts](https://www.javatpoint.com/java-oops-concepts) - JavaTPoint
+### Object Oriented Programming (OOPs)
+- [Java OOPs Concepts](https://www.javatpoint.com/java-oops-concepts) - JavaTPoint
 
 ### Java Swing
 - [Java Swing Tutorials](https://www.javatpoint.com/java-swing) - JavaTPoint
@@ -75,7 +75,7 @@
 - [JavaScript Tutorial](https://www.w3schools.com/js/) - W3Schools
 - [JavaScript Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - Net Ninja(Youtube)<br>
 (Basic JavaScript Concepts)
-- [Oops in JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) - Net Ninja(Youtube)
+- [OOPs in JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) - Net Ninja(Youtube)
 - [JavaScript Document Object Model(DOM)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V) - Net Ninja(Youtube)
 - [jQuery Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) - Net Ninja(Youtube)
 - [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc) - Net Ninja(Youtube)
