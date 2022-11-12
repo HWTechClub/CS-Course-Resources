@@ -30,6 +30,11 @@
 ## Data Communications and Networking (F29DC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29DC_202122.pdf)
 
+- [Introduction to Networking](https://www.edx.org/course/introduction-to-networking) - edX Course
+- [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) - Coursera
+- [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)<br>
+(Super helpful sheet to help you understand subnetting)
+
 ## Foundations 1 (F29FA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29FA_202122.pdf)
 
