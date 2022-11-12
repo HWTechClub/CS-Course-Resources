@@ -7,6 +7,26 @@
 
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29AI_202122.pdf)
 
+- [Intro to AI course - UC Berkeley](http://ai.berkeley.edu/)
+- [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
+
+<!-- - Java!!!!
+- A* Search - Java
+- PDDL - Lang to define environment and actions
+  - Gives an entire set of actions
+  - and task is complete
+- CW2 (Java)
+  - Make an AI that learn Tic-Tac-Toe
+  - Using 3 different techniques
+    - Value Iterration
+    - Positional Iteration
+    - Q Learning
+  - Last AI - Quiz
+    - Markov Decision Process!!!
+    - Game Theory
+    - 
+- Prolog (Pokemon CW) -->
+
 ## Data Communications and Networking (F29DC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29DC_202122.pdf)
 
