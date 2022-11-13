@@ -1,5 +1,24 @@
 # Year 4 Resources
 
+# Index
+<!-- no toc -->
+- [F20BC - Biologically Inspired Computation](#biologically-inspired-computation-f20bc)
+- [F20CN - Computer Network Security](#computer-network-security-f20cn)
+- [F20DL - Data Mining and Machine Learning](#data-mining-and-machine-learning-f20dl)
+- [F20GA - 3D Graphics and Animation](#3d-graphics-and-animation-f20ga)
+- [F20IF - Information Systems Methodologies](#information-systems-methodologies-f20if)
+- [F20RO - Intelligent Robotics](#intelligent-robotics-f20ro)
+- [F20RS - Rigorous Methods for Software Engineering](#rigorous-methods-for-software-engineering-f20rs)
+- [F20SA - Statistical Modelling and Analysis](#statistical-modelling-and-analysis-f20sa)
+- [F20SC - Industrial Programming](#industrial-programming-f20sc)
+- [F20AA - Applied Text Analytics](#applied-text-analytics-f20aa)
+- [F20AD - Advanced Interaction Design](#advanced-interaction-design-f20ad)
+- [F20AN - Advanced Network Security](#advanced-network-security-f20an)
+- [F20BD - Big Data Management](#big-data-management-f20bd)
+- [F20DV - Data Visualisation and Analytics](#data-visualisation-and-analytics-f20dv)
+- [F20EC - E-Commerce Technology](#e-commerce-technology-f20ec)
+- [F20FO - Digital Forensics](#digital-forensics-f20fo)
+- [F20GP - Computer Games Programming](#computer-games-programming-f20gp)
 
 ## Biologically Inspired Computation (F20BC)
 
