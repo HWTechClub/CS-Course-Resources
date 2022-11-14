@@ -41,6 +41,13 @@
 ## Software Engineering (F29SO)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29SO_202122.pdf)
 
+- [What is Agile/Scrum/Lean ?](https://youtu.be/WjwEh15M5Rw)
+- [USMx and UMD's Agile Project Management](https://www.edx.org/professional-certificate/umd-usmx-agile-project-management) - edX Course
+
+<!-- - Scrum
+- Deliverable 1 (Requirements, 8 deliverables)
+- Test: Software Engineering methods -->
+
 
 ---
 
