@@ -68,11 +68,26 @@
 ## Foundations 2 (F29FB)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29FB_202122.pdf)
 
+<!-- - Beginning is fine
+- Turing Machine
+- CW: Creating a Turing Machine -->
+
 ## Language Processors (F29LP)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29LP_202122.pdf)
+
+<!-- - Making diagrams
+- Make sure you understand
+-  -->
 
 ## Operating Systems and Concurrency (F29OC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29OC_202122.pdf)
 
 ## Professional Development (F29PD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29PD_202122.pdf)
+
+<!-- - Debate
+  - Same group
+  - 3 points
+- Test
+  - 5 guest lectures
+  - Test using the tests -->
