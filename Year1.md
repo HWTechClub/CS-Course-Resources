@@ -19,6 +19,9 @@
 ## Praxis (F27PX)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27PX_202122.pdf)
 
+- [Skills Hub](https://isguides.hw.ac.uk/cs) - MACS
+- 
+
 ## Software Development 1 (F27SA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27SA_202122.pdf)
 
