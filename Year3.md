@@ -38,6 +38,18 @@
 ## Foundations 1 (F29FA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29FA_202122.pdf)
 
+- [Lambda Calculus - Numberphile](https://youtu.be/eis11j_iGMs)<br>
+(A general introductory video to Lambda Calculus)
+- [Fundamentals of Lambda Calculus](https://www.youtube.com/watch?v=3VQ382QG-y4) - YouTube
+
+<details><summary>Lambda Calculus - RU Computer Science <i>(click to expand)</i></summary>
+<ul>
+  <li><a href="https://youtu.be/v1IlyzxP6Sg">Programming Languages: Lambda Calculus - 1</a></li>
+  <li><a href="https://youtu.be/Mg1pxUKeWCk">Programming Languages: Lambda Calculus - 2</a></li>
+  <li><a href="https://youtu.be/3h0-p4SDHig">Programming Languages: Lambda Calculus - 3</a></li>
+</ul>
+</details>
+
 ## Software Engineering (F29SO)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29SO_202122.pdf)
 
