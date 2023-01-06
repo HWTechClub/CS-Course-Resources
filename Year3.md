@@ -75,6 +75,10 @@
 ## Language Processors (F29LP)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29LP_202122.pdf)
 
+- [F29LP Course Page](http://www.macs.hw.ac.uk/~gabbay/F29LP/)
+- [OCaml Programming - Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - YouTube
+- [OCaml Tutorial - Fullstack Academy](https://www.youtube.com/watch?v=PGGl5WcNOIU) - YouTube
+
 <!-- - Making diagrams
 - Make sure you understand
 -  -->
