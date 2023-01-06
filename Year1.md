@@ -41,11 +41,12 @@
 ## Introduction to Computer Systems (F27CS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27CS_202122.pdf)
 
-- [MACS TEL - Resources](https://www.macs.hw.ac.uk/tel/resources/category/f27cx-main/) - TEL Resources for F27CX
+- [MACS TEL - Resources](https://www.macs.hw.ac.uk/tel/resources/category/f27cx-main/) - TEL Resources for F27CX<br>
+(All the key concepts are covered in the videos)
 
 ### ARM Assembly Language
 - [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=8236s)<br>
-(By far the best video so far that has all the concepts needed in one place)
+(By far the best video so far that has all the ARM concepts needed in one place)
 - [ARM7 Instructions/Programming](https://www.youtube.com/playlist?list=PLgIjRMdFBe6uKsHSSPyPSno9x4emd0c4p)<br>
 (Good for understandiung ARM basic concepts)
 
