@@ -8,7 +8,7 @@ A heads-up for all courses in Computer Science at HWU (F291-COS)
 
 ## Table of Contents
 
-- ### [Year 1](Year1)
-- ### [Year 2](Year2)
-- ### [Year 3](Year3)
-- ### [Year 4](Year4)
+- [Year 1](Year1)
+- [Year 2](Year2)
+- [Year 3](Year3)
+- [Year 4](Year4)
