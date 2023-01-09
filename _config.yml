@@ -8,3 +8,6 @@ theme_config:
   show_navbar: false
   show_footer: false
   show_copyright: false
+  
+plugins:
+  - jekyll-relative-links
