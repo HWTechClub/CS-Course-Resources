@@ -89,6 +89,8 @@
 ## Operating Systems and Concurrency (F29OC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29OC_202122.pdf)
 
+- [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+
 ## Professional Development (F29PD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29PD_202122.pdf)
 
