@@ -12,6 +12,8 @@
 
 **For Windows Users:** Make sure you have [**WSL 2**](https://learn.microsoft.com/en-us/windows/wsl/install#upgrade-version-from-wsl-1-to-wsl-2) (**W**indows **S**ubsystem for **L**inux) setup on your machine with a Linux OS installed (usually Ubuntu LTS) before the course begins to have a smoother experience.
 
+- [MACS TEL - F28LL](https://www.macs.hw.ac.uk/tel/resources/category/f28ll-main/) - TEL Resources for F28LL
+
 ### Python
 - [Learning Python](https://www.linkedin.com/learning/learning-python-14393370?u=2374954) (LinkedIn Learning Course)
 - [F28PL Python](https://github.com/KayvanKarim/F28PLPython) (Python Code Samples from the lectures)

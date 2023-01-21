@@ -19,6 +19,8 @@
 ## Praxis (F27PX)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27PX_202122.pdf)
 
+- [Skills Hub](https://isguides.hw.ac.uk/cs) - MACS
+
 ## Software Development 1 (F27SA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27SA_202122.pdf)
 
@@ -39,9 +41,12 @@
 ## Introduction to Computer Systems (F27CS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27CS_202122.pdf)
 
+- [MACS TEL - Resources](https://www.macs.hw.ac.uk/tel/resources/category/f27cx-main/) - TEL Resources for F27CX<br>
+(All the key concepts are covered in the videos)
+
 ### ARM Assembly Language
 - [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=8236s)<br>
-(By far the best video so far that has all the concepts needed in one place)
+(By far the best video so far that has all the ARM concepts needed in one place)
 - [ARM7 Instructions/Programming](https://www.youtube.com/playlist?list=PLgIjRMdFBe6uKsHSSPyPSno9x4emd0c4p)<br>
 (Good for understandiung ARM basic concepts)
 
@@ -57,20 +62,29 @@
 ## Web Design and Databases (F27WD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27WD_202122.pdf)
 
+- [MACS TEL - F27WX](https://www.macs.hw.ac.uk/tel/resources/category/f27wx-main/) - TEL Resources for F27WX
+
 - ### [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - freeCodeCamp
 
-### HTML
+### Index:
+- [HTML](#html)
+- [CSS](#css)
+- [JavaScript](#javascript)
+- [PHP](#php)
+- [SQL](#sql)
+
+#### HTML
 
 - [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 - [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4?u=2374954) - LinkedIn Learning Course
 
-### CSS
+#### CSS
 
 - [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
 - [Introduction to CSS](https://www.linkedin.com/learning/introduction-to-css-14934735?u=2374954) - LinkedIn Learning Course
 - [CSS Animations](https://www.youtube.com/playlist?list=PL5e68lK9hEzcZLltZrc3NDlKWS3XygchY) - OnlineTutorials
 
-### JavaScript
+#### JavaScript
 
 - [JavaScript Tutorial](https://www.w3schools.com/js/) - W3Schools
 - [JavaScript Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - Net Ninja(Youtube)<br>
@@ -81,7 +95,7 @@
 - [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc) - Net Ninja(Youtube)
 - [Async JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu) - Net Ninja(Youtube)
 
-### PHP
+#### PHP
 - [PHP Tutorials](https://www.javatpoint.com/php-tutorial) - JavaTPoint
 - [Learning PHP](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?autoplay=true&u=2374954) - LinkedIn Learning Course
 - [PHP with MySQL Essential Training: 1 The Basics](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/welcome-14188564?autoplay=true&u=2374954) - LinkedIn Learning Course
@@ -89,6 +103,6 @@
 - [PHP: Object-Oriented Programming with Databases](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?autoplay=true&u=2374954) - LinkedIn Learning Course
 - [Ajax with PHP: Add Dynamic Content to Websites](https://www.linkedin.com/learning/ajax-with-php-add-dynamic-content-to-websites/welcome?autoplay=true&u=2374954) - LinkedIn Learning Course
 
-### SQL
+#### SQL
 - [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?autoplay=true&u=2374954) - LinkedIn Learning Course
 - [SQL Tutorial](https://www.w3schools.com/mysql/default.asp) - W3Schools
