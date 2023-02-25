@@ -8,7 +8,7 @@
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29AI_202122.pdf)
 - [Search 1 - Dynamic Programming, Uniform Cost Search](https://www.youtube.com/watch?v=aIsgJJYrlXk&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=18) - Standford Online
 - [Search 2 - A*](https://www.youtube.com/watch?v=HEs1ZCvLH2s&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=19&t=1641s) - Standford Online
-- [Markov Decision Processes 1](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=20) - Standford Online
+- [Markov Decision Processes 1](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=20) - Standford Online 
 - [Markov Decision Processes 2](https://www.youtube.com/watch?v=HpaHTfY52RQ&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=21) - Standford Online
 - [Minimax, Alpha-beta Pruning](https://www.youtube.com/watch?v=3pU-Hrz_xy4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=22) - Standford Online
 
@@ -35,14 +35,15 @@
 
 ## Data Communications and Networking (F29DC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29DC_202122.pdf)
+- [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)<br>
+(Super helpful sheet to help you understand subnetting)
 - [Networking Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg) - PowerCert Animated Videos
 - [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg) - PowerCert Animated Videos
 - [OSI Model](https://www.youtube.com/watch?v=vv4y_uOneC0) - TechTerms
 
 - [Introduction to Networking](https://www.edx.org/course/introduction-to-networking) - edX Course
 - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) - Coursera
-- [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)<br>
-(Super helpful sheet to help you understand subnetting)
+
 
 ## Foundations 1 (F29FA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29FA_202122.pdf)
@@ -89,7 +90,7 @@
 ## Operating Systems and Concurrency (F29OC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29OC_202122.pdf)
 
-- [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+- [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - YouTube
 
 ## Professional Development (F29PD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29PD_202122.pdf)
