@@ -21,6 +21,8 @@
 
 ### OCaml
 - [OCaml Documentation](https://ocaml.org/docs/first-hour)
+- [OCaml Programming - Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - YouTube
+- [OCaml Tutorial - Fullstack Academy](https://www.youtube.com/watch?v=PGGl5WcNOIU) - YouTube
 
 ### Prolog
 - [Logic Programming With Prolog (Book)](https://link-springer-com.ezproxy1.hw.ac.uk/book/10.1007/978-1-4471-5487-7) - SpringerLink
