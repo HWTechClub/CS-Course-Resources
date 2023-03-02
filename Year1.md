@@ -8,12 +8,12 @@
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F17LP_202122.pdf)
 
 - [Stanford Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
-- [Logic 101 - Full Course](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on)
+- [Logic 101 - Full Course](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on) - YouTube
 
 ## Introduction to Interaction Design (F27ID)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27ID_202122.pdf)
 
-- [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics?u=2374954) (LinkedIn Learning Course)<br>
+- [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics?u=2374954) - **LinkedIn Learning** Course<br>
 (Essential for the prototyping part of this course)
 
 ## Praxis (F27PX)
@@ -24,9 +24,9 @@
 ## Software Development 1 (F27SA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F27SA_202122.pdf)
 
-- [Learning Java (LinkedIn Learning Course)](https://www.linkedin.com/learning/learning-java-4?u=2374954)
+- [Learning Java](https://www.linkedin.com/learning/learning-java-4?u=2374954) - **LinkedIn Learning** Course
 - [Full Java Tutorials](https://www.javatpoint.com/java-tutorial) - JavaTPoint
-- [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al) <br>
+- [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al) - YouTube <br>
 (till video number 30)
 ---
 
@@ -45,9 +45,9 @@
 (All the key concepts are covered in the videos)
 
 ### ARM Assembly Language
-- [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=8236s)<br>
+- [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://youtu.be/gfmRrPjnEw4) - YouTube<br>
 (By far the best video so far that has all the ARM concepts needed in one place)
-- [ARM7 Instructions/Programming](https://www.youtube.com/playlist?list=PLgIjRMdFBe6uKsHSSPyPSno9x4emd0c4p)<br>
+- [ARM7 Instructions/Programming](https://www.youtube.com/playlist?list=PLgIjRMdFBe6uKsHSSPyPSno9x4emd0c4p) - YouTube<br>
 (Good for understandiung ARM basic concepts)
 
 ## Software Development 2 (F27SB)
@@ -87,13 +87,13 @@
 #### JavaScript
 
 - [JavaScript Tutorial](https://www.w3schools.com/js/) - W3Schools
-- [JavaScript Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - Net Ninja(Youtube)<br>
+- [JavaScript Tutorial For Beginners - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - YouTube<br>
 (Basic JavaScript Concepts)
-- [OOPs in JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) - Net Ninja(Youtube)
-- [JavaScript Document Object Model(DOM)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V) - Net Ninja(Youtube)
-- [jQuery Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) - Net Ninja(Youtube)
-- [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc) - Net Ninja(Youtube)
-- [Async JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu) - Net Ninja(Youtube)
+- [OOPs in JavaScript Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) - YouTube
+- [JavaScript Document Object Model(DOM) - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V) - YouTube
+- [jQuery Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) - YouTube
+- [Modern JavaScript Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc) - YouTube
+- [Async JavaScript Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu) - YouTube
 
 #### PHP
 - [PHP Tutorials](https://www.javatpoint.com/php-tutorial) - JavaTPoint
