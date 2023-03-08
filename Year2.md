@@ -57,6 +57,7 @@
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28DM_202122.pdf)
 
 - [Database Management Systems - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+- [SQL Murder Mystery](http://mystery.knightlab.com/) - Fun Game to learn SQL concepts and commands
 
 ## Hardware-Software Interface (F28HS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28HS_202122.pdf)
