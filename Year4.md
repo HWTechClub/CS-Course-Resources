@@ -32,7 +32,7 @@
 ### Calculus
 - **Basics of Calculus**, especially calculating derivatives and chain rule derivative
   - [Differentiation](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new) - Khan Academy
-  - [Chain Rule Introduction](https://www.kha   nacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/v/chain-rule-introduction) - Khan Academy
+  - [Chain Rule Introduction](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/v/chain-rule-introduction) - Khan Academy
 - Probability and Statistics
   - [Probability & Statistics](https://oli.cmu.edu/courses/probability-statistics-open-free/) - Open Learning Initiative
   - [Statistics (STAT 516)](https://www.stat.purdue.edu/~mlevins/courses/STAT%20516/notes.html) - Purdue University
