@@ -7,7 +7,7 @@ A heads-up for all courses in Computer Science at HWU (F291-COS)
 
 You can also view this via the website [**here**](https://hwtechclub.github.io/CS-Course-Resources/):<br>[https://hwtechclub.github.io/CS-Course-Resources/](https://hwtechclub.github.io/CS-Course-Resources/)
 
-## [Programme Guide (F291-COS)](https://www.hw.ac.uk/documents/pams/202122/F291-COS_202122.pdf)
+## [Programme Guide (F291-COS)](https://curriculum.hw.ac.uk/programmedetails/F291-COS?termcode=202223)
 
 ## Table of Contents
 
