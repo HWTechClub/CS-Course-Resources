@@ -106,3 +106,4 @@
 #### SQL
 - [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?autoplay=true&u=2374954) - LinkedIn Learning Course
 - [SQL Tutorial](https://www.w3schools.com/mysql/default.asp) - W3Schools
+- [SQL Murder Mystery](http://mystery.knightlab.com/) - Fun Game to learn SQL concepts and commands
