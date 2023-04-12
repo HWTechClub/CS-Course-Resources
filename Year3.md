@@ -90,8 +90,17 @@
 ## Operating Systems and Concurrency (F29OC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29OC_202122.pdf)
 
+### Operating Systems
 - [Operating System - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - YouTube
 - [Operating System - Jenny's Lectures CS IT](https://youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa) - YouTube
+
+### Concurrency
+
+- [Java Concurrency and Multithreading - Jakob Jenkov](https://youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) - YouTube<br>
+Highly recommended to start off with (even in the course page, it is recommended to start with this playlist)
+- [Java Concurrency and Multithreading Tutorial - Jacob Jenkov](https://jenkov.com/tutorials/java-concurrency/index.html) - Textual Version
+
+- [Multithreading in Java Explained in 10 Minutes - Coding with John](https://youtu.be/r_MbozD32eo)
 
 ## Professional Development (F29PD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29PD_202122.pdf)
