@@ -41,8 +41,8 @@
 <br>
 <br>
 
-- **Any programming language** with vector operations, preferably Python or Matlab. But Java can also do (however, you will miss the vector operations, unless you use a library such as jama). Python (see also other references)
-#### Python
+- **Any programming language** with vector operations, preferably Python or Matlab. But Java can also do (however, you will miss the vector operations, unless you use a library such as jama).
+#### Python (see also other references)
   - [Python for Beginners](https://www.youtube.com/watch?v=kqtD5dpn9C8) - Programming with Mosh (YouTube)
   - [Python Tutorial - Full Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Programming with Mosh (YouTube)
   - [Python Courses](https://python-course.eu/) - python-course.eu
@@ -51,7 +51,7 @@
   - [Matlab Academy](https://matlabacademy.mathworks.com/)
 
 ### (**Optional**)
-Some knowledge of data structures basic (Arrays, LinkedList, Stacks, Queues ) and advanced (Disjoint Sets, Self-Balancing Trees, Segment Trees, Tries, quadtree...).<br>
+Some knowledge of data structures basic (Arrays, LinkedList, Stacks, Queues) and advanced (Disjoint Sets, Self-Balancing Trees, Segment Trees, Tries, quadtree...).<br>
 These are needed to understand implementation of meta-heuristic algorithms.
 
 - [Intro Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
