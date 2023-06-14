@@ -63,6 +63,8 @@ These are needed to understand implementation of meta-heuristic algorithms.
 ## Data Mining and Machine Learning (F20DL)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20DL_202122.pdf)
 
+Basic knowledge of Python is required. This includes some Python libraries like [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/). ([Scikit-Learn](https://scikit-learn.org/) & [TensorFlow](https://www.tensorflow.org/) is a plus)
+
 - [Basic Python](https://cognitiveclass.ai/courses/python-for-data-science)<br>
 This is very brief, and should be followed by completing a further full Python online course of your choice.
 
