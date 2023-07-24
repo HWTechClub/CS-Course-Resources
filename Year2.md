@@ -62,6 +62,8 @@
 ## Hardware-Software Interface (F28HS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28HS_202122.pdf)
 
+- ### [F28HS Course Page](https://www.macs.hw.ac.uk/~hwloidl/Courses/F28HS/)
+
 ### C (Programming Language)
 - [Learning C](https://www.linkedin.com/learning/learning-c-5?u=2374954) (LinkedIn Learning Course)
 - [C Essential Training](https://www.linkedin.com/learning/c-essential-training?u=2374954) (LinkedIn Learning Course)
