@@ -39,7 +39,7 @@
 (Super helpful sheet to help you understand subnetting)
 - [Networking Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg) - PowerCert Animated Videos
 - [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg) - PowerCert Animated Videos
-- [OSI Model](https://www.youtube.com/watch?v=vv4y_uOneC0) - TechTerms
+- [OSI Model](https://youtu.be/vv4y_uOneC0) - TechTerms
 
 - [Introduction to Networking](https://www.edx.org/course/introduction-to-networking) - edX Course
 - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) - Coursera
@@ -50,7 +50,7 @@
 
 - [Lambda Calculus - Numberphile](https://youtu.be/eis11j_iGMs)<br>
 (A general introductory video to Lambda Calculus)
-- [Fundamentals of Lambda Calculus](https://www.youtube.com/watch?v=3VQ382QG-y4) - YouTube
+- [Fundamentals of Lambda Calculus](https://www.youtu.be/3VQ382QG-y4) - YouTube
 
 <details><summary>Lambda Calculus - RU Computer Science <i>(click to expand)</i></summary>
 <ul>
@@ -81,7 +81,7 @@
 
 - [F29LP Course Page](http://www.macs.hw.ac.uk/~gabbay/F29LP/)
 - [OCaml Programming - Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - YouTube
-- [OCaml Tutorial - Fullstack Academy](https://www.youtube.com/watch?v=PGGl5WcNOIU) - YouTube
+- [OCaml Tutorial - Fullstack Academy](https://www.youtu.be/PGGl5WcNOIU) - YouTube
 
 <!-- - Making diagrams
 - Make sure you understand
