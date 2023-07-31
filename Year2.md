@@ -72,7 +72,7 @@
 
 ### ARM Assembly Language
 (yes, it doesn't run away after [F27CS](Year1.md#introduction-to-computer-systems-f27cs))
-- [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=8236s)<br>
+- [Assembly Language Programming with ARM - Full Tutorial for Beginners](https://youtu.be/gfmRrPjnEw4)<br>
 (By far the best video so far that has all the concepts needed in one place)
 
 ## Introduction to Software Engineering (F28SD)

@@ -7,7 +7,7 @@
 
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29AI_202122.pdf)
 - [Search 1 - Dynamic Programming, Uniform Cost Search](https://www.youtube.com/watch?v=aIsgJJYrlXk&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=18) - Stanford Online
-- [Search 2 - A*](https://www.youtube.com/watch?v=HEs1ZCvLH2s&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=19&t=1641s) - Stanford Online
+- [Search 2 - A*](https://www.youtube.com/watch?v=HEs1ZCvLH2s&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=19) - Stanford Online
 - [Markov Decision Processes 1](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=20) - Stanford Online 
 - [Markov Decision Processes 2](https://www.youtube.com/watch?v=HpaHTfY52RQ&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=21) - Stanford Online
 - [Minimax, Alpha-beta Pruning](https://www.youtube.com/watch?v=3pU-Hrz_xy4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=22) - Stanford Online
