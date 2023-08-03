@@ -43,8 +43,8 @@
 
 - **Any programming language** with vector operations, preferably Python or Matlab. But Java can also do (however, you will miss the vector operations, unless you use a library such as jama).
 #### Python (see also other references)
-  - [Python for Beginners](https://www.youtu.be/kqtD5dpn9C8) - Programming with Mosh (YouTube)
-  - [Python Tutorial - Full Course](https://www.youtu.be/_uQrJ0TkZlc) - Programming with Mosh (YouTube)
+  - [Python for Beginners](https://youtu.be/kqtD5dpn9C8) - Programming with Mosh (YouTube)
+  - [Python Tutorial - Full Course](https://youtu.be/_uQrJ0TkZlc) - Programming with Mosh (YouTube)
   - [Python Courses](https://python-course.eu/) - python-course.eu
 
 #### Matlab

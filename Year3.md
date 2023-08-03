@@ -50,7 +50,7 @@
 
 - [Lambda Calculus - Numberphile](https://youtu.be/eis11j_iGMs)<br>
 (A general introductory video to Lambda Calculus)
-- [Fundamentals of Lambda Calculus](https://www.youtu.be/3VQ382QG-y4) - YouTube
+- [Fundamentals of Lambda Calculus](https://youtu.be/3VQ382QG-y4) - YouTube
 
 <details><summary>Lambda Calculus - RU Computer Science <i>(click to expand)</i></summary>
 <ul>
@@ -81,7 +81,7 @@
 
 - [F29LP Course Page](http://www.macs.hw.ac.uk/~gabbay/F29LP/)
 - [OCaml Programming - Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - YouTube
-- [OCaml Tutorial - Fullstack Academy](https://www.youtu.be/PGGl5WcNOIU) - YouTube
+- [OCaml Tutorial - Fullstack Academy](https://youtu.be/PGGl5WcNOIU) - YouTube
 
 <!-- - Making diagrams
 - Make sure you understand
