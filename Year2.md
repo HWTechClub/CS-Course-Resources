@@ -15,9 +15,9 @@
 - [MACS TEL - F28LL](https://www.macs.hw.ac.uk/tel/resources/category/f28ll-main/) - TEL Resources for F28LL
 
 ### Python
-- [Learning Python](https://www.linkedin.com/learning/learning-python-14393370?u=2374954) (LinkedIn Learning Course)
+- [Learning Python](https://www.linkedin.com/learning/learning-python-14393370) (LinkedIn Learning Course)
 - [F28PL Python](https://github.com/KayvanKarim/F28PLPython) (Python Code Samples from the lectures)
-- [Python For Everybody](https://www.coursera.org/specializations/python?) (Coursera)
+- [Python For Everybody](https://www.coursera.org/specializations/python) (Coursera)
 
 ### OCaml
 - [OCaml Documentation](https://ocaml.org/docs/first-hour)
@@ -65,9 +65,9 @@
 - ### [F28HS Course Page](https://www.macs.hw.ac.uk/~hwloidl/Courses/F28HS/)
 
 ### C (Programming Language)
-- [Learning C](https://www.linkedin.com/learning/learning-c-5?u=2374954) (LinkedIn Learning Course)
-- [C Essential Training](https://www.linkedin.com/learning/c-essential-training?u=2374954) (LinkedIn Learning Course)
-- [C Programming for Embedded Applications](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235?u=2374954) (LinkedIn Learning Course)
+- [Learning C](https://www.linkedin.com/learning/learning-c-5) (LinkedIn Learning Course)
+- [C Essential Training](https://www.linkedin.com/learning/c-essential-training) (LinkedIn Learning Course)
+- [C Programming for Embedded Applications](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235) (LinkedIn Learning Course)
 - [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) - Neso Academy
 
 ### ARM Assembly Language
