@@ -25,7 +25,13 @@
 - [OCaml Tutorial - Fullstack Academy](https://youtu.be/PGGl5WcNOIU) - YouTube
 
 ### Prolog
+<!-- Credits: https://exercism.org/docs/tracks/prolog/learning -->
 - [Logic Programming With Prolog (Book)](https://link-springer-com.ezproxy1.hw.ac.uk/book/10.1007/978-1-4471-5487-7) - SpringerLink
+- [Getting Started - SWI-Prolog Documentation](http://www.swi-prolog.org/pldoc/man?section=quickstart)
+- [Learn Prolog Now](http://www.learnprolognow.org/)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/docs/prolog/) - Prolog
+- [Seven Languages in Seven Weeks by Bruce A. Tate - Chapter 4](https://media.pragprog.com/titles/btlang/prolog.pdf)<br> - Prolog Excerpt
+- [and many more...](http://www.swi-prolog.org/Links.html)
 
 ## Introduction to Data Structures and Algorithms (F28SG)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F28SG_202122.pdf)
