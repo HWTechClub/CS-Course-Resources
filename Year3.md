@@ -42,7 +42,8 @@
 - [OSI Model](https://youtu.be/vv4y_uOneC0) - TechTerms
 
 - [Introduction to Networking](https://www.edx.org/course/introduction-to-networking) - edX Course
-- [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) - Coursera
+- [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) - Coursera<br>
+There is also a [YouTube playlist](https://youtube.com/playlist?list=PLTZYG7bZ1u6o6wz9EF9tQt1JS-pUmmKTj) with **only** the videos (if you don't want to do the whole course)
 
 
 ## Foundations 1 (F29FA)
