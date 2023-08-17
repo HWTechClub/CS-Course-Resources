@@ -11,10 +11,10 @@
 - [Markov Decision Processes 1](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=20) - Stanford Online 
 - [Markov Decision Processes 2](https://www.youtube.com/watch?v=HpaHTfY52RQ&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=21) - Stanford Online
 - [Minimax, Alpha-beta Pruning](https://www.youtube.com/watch?v=3pU-Hrz_xy4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=22) - Stanford Online
-
-
 - [Intro to AI course - UC Berkeley](http://ai.berkeley.edu/)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
+
+#### Check out [Prolog](Year2.md#prolog) resources too
 
 <!-- - Java!!!!
 - A* Search - Java
