@@ -1,0 +1,17 @@
+{
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": true,
+    "editor.wordWrap": "on",
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    }
+}
