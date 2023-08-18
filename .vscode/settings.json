@@ -7,8 +7,8 @@
 	"files.trimTrailingWhitespace": true,
 	"git.autofetch": true,
 	"editor.wordWrap": "on",
-    "editor.matchBrackets": "always",
-    "editor.bracketPairColorization.enabled": true,
+	"editor.matchBrackets": "always",
+	"editor.bracketPairColorization.enabled": true,
 	"[markdown]": {
 		"editor.unicodeHighlight.ambiguousCharacters": false,
 		"editor.unicodeHighlight.invisibleCharacters": false,
