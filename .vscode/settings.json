@@ -9,6 +9,10 @@
 	"editor.wordWrap": "on",
 	"editor.matchBrackets": "always",
 	"editor.bracketPairColorization.enabled": true,
+	"[*]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4
+	},
 	"[markdown]": {
 		"editor.unicodeHighlight.ambiguousCharacters": false,
 		"editor.unicodeHighlight.invisibleCharacters": false,
