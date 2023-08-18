@@ -8,7 +8,7 @@
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29AI_202122.pdf)
 - [Search 1 - Dynamic Programming, Uniform Cost Search](https://www.youtube.com/watch?v=aIsgJJYrlXk&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=18) - Stanford Online
 - [Search 2 - A*](https://www.youtube.com/watch?v=HEs1ZCvLH2s&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=19) - Stanford Online
-- [Markov Decision Processes 1](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=20) - Stanford Online 
+- [Markov Decision Processes 1](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=20) - Stanford Online
 - [Markov Decision Processes 2](https://www.youtube.com/watch?v=HpaHTfY52RQ&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=21) - Stanford Online
 - [Minimax, Alpha-beta Pruning](https://www.youtube.com/watch?v=3pU-Hrz_xy4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=22) - Stanford Online
 - [Intro to AI course - UC Berkeley](http://ai.berkeley.edu/)
@@ -19,18 +19,18 @@
 <!-- - Java!!!!
 - A* Search - Java
 - PDDL - Lang to define environment and actions
-  - Gives an entire set of actions
-  - and task is complete
+	- Gives an entire set of actions
+	- and task is complete
 - CW2 (Java)
-  - Make an AI that learn Tic-Tac-Toe
-  - Using 3 different techniques
-    - Value Iterration
-    - Positional Iteration
-    - Q Learning
-  - Last AI - Quiz
-    - Markov Decision Process!!!
-    - Game Theory
-    - 
+	- Make an AI that learn Tic-Tac-Toe
+	- Using 3 different techniques
+		- Value Iterration
+		- Positional Iteration
+		- Q Learning
+	- Last AI - Quiz
+		- Markov Decision Process!!!
+		- Game Theory
+		-
 - Prolog (Pokemon CW) -->
 
 ## Data Communications and Networking (F29DC)
@@ -55,9 +55,9 @@ There is also a [YouTube playlist](https://youtube.com/playlist?list=PLTZYG7bZ1u
 
 <details><summary>Lambda Calculus - RU Computer Science <i>(click to expand)</i></summary>
 <ul>
-  <li><a href="https://youtu.be/v1IlyzxP6Sg">Programming Languages: Lambda Calculus - 1</a></li>
-  <li><a href="https://youtu.be/Mg1pxUKeWCk">Programming Languages: Lambda Calculus - 2</a></li>
-  <li><a href="https://youtu.be/3h0-p4SDHig">Programming Languages: Lambda Calculus - 3</a></li>
+	<li><a href="https://youtu.be/v1IlyzxP6Sg">Programming Languages: Lambda Calculus - 1</a></li>
+	<li><a href="https://youtu.be/Mg1pxUKeWCk">Programming Languages: Lambda Calculus - 2</a></li>
+	<li><a href="https://youtu.be/3h0-p4SDHig">Programming Languages: Lambda Calculus - 3</a></li>
 </ul>
 </details>
 
@@ -107,8 +107,8 @@ Highly recommended to start off with (even in the course page, it is recommended
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F29PD_202122.pdf)
 
 <!-- - Debate
-  - Same group
-  - 3 points
+	- Same group
+	- 3 points
 - Test
-  - 5 guest lectures
-  - Test using the tests -->
+	- 5 guest lectures
+	- Test using the tests -->

@@ -1,7 +1,7 @@
 {
-    "recommendations": [
-        "bierner.github-markdown-preview",
-        "eamodio.gitlens",
-        "mhutchie.git-graph"
-    ]
+	"recommendations": [
+		"bierner.github-markdown-preview",
+		"eamodio.gitlens",
+		"mhutchie.git-graph"
+	]
 }
