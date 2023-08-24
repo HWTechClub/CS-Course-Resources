@@ -75,10 +75,10 @@ Basic knowledge of Python is required. This includes some Python libraries like 
 This is very brief, and should be followed by completing a further full Python online course of your choice.
 
 <!-- - Basic Knowledge of Python including Python libraries like
-	- NumP
-	- Pandas
-	- Matplotlib
-	- Scikit-Learn & TensorFlow is a plus -->
+  - NumP
+  - Pandas
+  - Matplotlib
+  - Scikit-Learn & TensorFlow is a plus -->
 
 ## 3D Graphics and Animation (F20GA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20GA_202122.pdf)
@@ -105,7 +105,7 @@ This is very brief, and should be followed by completing a further full Python o
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20AA_202122.pdf)
 
 - Basic knowledge of Machine Learning models and Evaluation Criteria
-	- Preferably take [F20/F21DL](#data-mining-and-machine-learning-f20dl) in Semester 1
+  - Preferably take [F20/F21DL](#data-mining-and-machine-learning-f20dl) in Semester 1
 - Knowledge of Machine Learning libraries i.e. [Scikit-Learn](https://scikit-learn.org/) & [TensorFlow](https://www.tensorflow.org/)
 - [Scikit-Learn Tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
