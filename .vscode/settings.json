@@ -4,6 +4,7 @@
 	"editor.indentSize": "tabSize",
 	"editor.stickyScroll.enabled": true,
 	"editor.renderWhitespace": "all",
+	"editor.minimap.scale": 2,
 	"files.trimTrailingWhitespace": true,
 	"git.autofetch": true,
 	"editor.wordWrap": "on",
@@ -14,6 +15,8 @@
 		"editor.tabSize": 4
 	},
 	"[markdown]": {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
 		"editor.unicodeHighlight.ambiguousCharacters": false,
 		"editor.unicodeHighlight.invisibleCharacters": false,
 		"diffEditor.ignoreTrimWhitespace": false,
