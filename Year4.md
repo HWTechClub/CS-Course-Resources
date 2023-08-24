@@ -55,6 +55,12 @@ These are needed to understand implementation of meta-heuristic algorithms.
 
 - [Intro Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Computer Network Security (F20CN)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20CN_202122.pdf)
@@ -65,6 +71,12 @@ These are needed to understand implementation of meta-heuristic algorithms.
 ### Security Concepts:
 - [Security in Computing](https://discovery.hw.ac.uk/permalink/f/1el5916/44hwa_alma2130258230003206) - If you are a book person
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Data Mining and Machine Learning (F20DL)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20DL_202122.pdf)
@@ -79,6 +91,12 @@ This is very brief, and should be followed by completing a further full Python o
   - Pandas
   - Matplotlib
   - Scikit-Learn & TensorFlow is a plus -->
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## 3D Graphics and Animation (F20GA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20GA_202122.pdf)
@@ -86,20 +104,62 @@ This is very brief, and should be followed by completing a further full Python o
 ### C++
 -
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
+
 ## Information Systems Methodologies (F20IF)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20IF_202122.pdf)
+
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Intelligent Robotics (F20RO)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20RO_202122.pdf)
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
+
 ## Rigorous Methods for Software Engineering (F20RS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20RS_202122.pdf)
+
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Statistical Modelling and Analysis (F20SA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20SA_202122.pdf)
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
+
 ## Industrial Programming (F20SC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20SC_202122.pdf)
+
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Applied Text Analytics (F20AA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20AA_202122.pdf)
@@ -109,23 +169,79 @@ This is very brief, and should be followed by completing a further full Python o
 - Knowledge of Machine Learning libraries i.e. [Scikit-Learn](https://scikit-learn.org/) & [TensorFlow](https://www.tensorflow.org/)
 - [Scikit-Learn Tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
+
 ## Advanced Interaction Design (F20AD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F2_202122.pdf)
+
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Advanced Network Security (F20AN)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20AN_202122.pdf)
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
+
 ## Big Data Management (F20BD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20BD_202122.pdf)
+
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Data Visualisation and Analytics (F20DV)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20DV_202122.pdf)
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
+
 ## e-Commerce Technology (F20EC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20EC_202122.pdf)
+
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
 
 ## Digital Forensics (F20FO)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20FO_202122.pdf)
 
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
+
 ## Computer Games Programming (F20GP)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20GP_202122.pdf)
+
+---
+<div align="right">
+
+[Back To Top ↥](#index)
+
+</div>
