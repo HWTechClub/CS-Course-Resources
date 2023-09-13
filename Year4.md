@@ -73,6 +73,11 @@ These are needed to understand implementation of meta-heuristic algorithms.
 
 ### Security Concepts:
 - [Security in Computing](https://discovery.hw.ac.uk/permalink/f/1el5916/44hwa_alma2130258230003206) - If you are a book person
+- [University of Washington: Cybersecurity: The CISO's View](https://www.edx.org/learn/computer-programming/university-of-washington-cybersecurity-the-cisos-view) - edX Course
+- [Universidad Carlos III de Madrid: Cyber Security Basics: A Hands-on Approach](https://www.edx.org/learn/cybersecurity/universidad-carlos-iii-de-madrid-cyber-security-basics-a-hands-on-approach) - edX Course
+- [University of Washington: Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/university-of-washington-introduction-to-cybersecurity) - edX Course
+- [KU Leuven: Web Security Fundamentals](https://www.edx.org/learn/computer-programming/ku-leuven-web-security-fundamentals) - edX Course
+- [Delft University of Technology: Cyber Security Economics](https://www.edx.org/learn/computer-programming/ku-leuven-web-security-fundamentals) - edX Course
 
 ---
 <div align="right">
