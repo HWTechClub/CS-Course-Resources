@@ -58,7 +58,7 @@ These are needed to understand implementation of meta-heuristic algorithms.
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -77,7 +77,7 @@ These are needed to understand implementation of meta-heuristic algorithms.
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -97,7 +97,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -110,7 +110,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -120,7 +120,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -130,7 +130,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -140,7 +140,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -150,7 +150,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -160,7 +160,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -175,7 +175,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -185,7 +185,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -195,7 +195,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -205,7 +205,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -215,7 +215,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -225,7 +225,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -235,7 +235,7 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
 
@@ -245,6 +245,6 @@ This is very brief, and should be followed by completing a further full Python o
 ---
 <div align="right">
 
-[Back To Top ↥](#index)
+<a href="#index">Back To Top ↥</a>
 
 </div>
