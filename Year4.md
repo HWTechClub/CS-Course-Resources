@@ -65,7 +65,10 @@ These are needed to understand implementation of meta-heuristic algorithms.
 ## Computer Network Security (F20CN)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20CN_202122.pdf)
 
-### Python + Bash
+### Python
+- [F28PL Python resources](Year2.md#python)
+
+### Bash
 - [BashGuide](http://mywiki.wooledge.org/BashGuide)
 
 ### Security Concepts:
