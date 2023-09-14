@@ -1,34 +1,46 @@
+<!-- omit from toc -->
 # Year 4 Resources
 
+<!-- omit from toc -->
 # Index
-<!-- no toc -->
-- [F20BC - Biologically Inspired Computation](#biologically-inspired-computation-f20bc)
-- [F20CN - Computer Network Security](#computer-network-security-f20cn)
-- [F20DL - Data Mining and Machine Learning](#data-mining-and-machine-learning-f20dl)
-- [F20GA - 3D Graphics and Animation](#3d-graphics-and-animation-f20ga)
-- [F20IF - Information Systems Methodologies](#information-systems-methodologies-f20if)
-- [F20RO - Intelligent Robotics](#intelligent-robotics-f20ro)
-- [F20RS - Rigorous Methods for Software Engineering](#rigorous-methods-for-software-engineering-f20rs)
-- [F20SA - Statistical Modelling and Analysis](#statistical-modelling-and-analysis-f20sa)
-- [F20SC - Industrial Programming](#industrial-programming-f20sc)
-- [F20AA - Applied Text Analytics](#applied-text-analytics-f20aa)
-- [F20AD - Advanced Interaction Design](#advanced-interaction-design-f20ad)
-- [F20AN - Advanced Network Security](#advanced-network-security-f20an)
-- [F20BD - Big Data Management](#big-data-management-f20bd)
-- [F20DV - Data Visualisation and Analytics](#data-visualisation-and-analytics-f20dv)
-- [F20EC - E-Commerce Technology](#e-commerce-technology-f20ec)
-- [F20FO - Digital Forensics](#digital-forensics-f20fo)
-- [F20GP - Computer Games Programming](#computer-games-programming-f20gp)
+<!-- omit from toc -->
+### Semester 1
+
+- [F20BC/F21BC - Biologically Inspired Computation](#biologically-inspired-computation-f20bcf21bc)
+- [F20CN/F21CN - Computer Network Security](#computer-network-security-f20cnf21cn)
+- [F20DL/F21DL - Data Mining and Machine Learning](#data-mining-and-machine-learning-f20dlf21dl)
+- [F20GA/F21GA - 3D Graphics and Animation](#3d-graphics-and-animation-f20gaf21ga)
+- [F20IF/F21IF - Information Systems Methodologies](#information-systems-methodologies-f20iff21if)
+- [F20RO/F21RO - Intelligent Robotics](#intelligent-robotics-f20rof21ro)
+- [F20RS/F21RS - Rigorous Methods for Software Engineering](#rigorous-methods-for-software-engineering-f20rsf21rs)
+- [F20SA/F21SA - Statistical Modelling and Analysis](#statistical-modelling-and-analysis-f20saf21sa)
+- [F20SC/F21SC - Industrial Programming](#industrial-programming-f20scf21sc)
+
+<!-- omit from toc -->
+### Semester 2
+- [F20AA/F21AA - Applied Text Analytics](#applied-text-analytics-f20aaf21aa)
+- [F20AD/F21AD - Advanced Interaction Design](#advanced-interaction-design-f20adf21ad)
+- [F20AN/F21AN - Advanced Network Security](#advanced-network-security-f20anf21an)
+- [F20BD/F21BD - Big Data Management](#big-data-management-f20bdf21bd)
+- [F20DV/F21DV - Data Visualisation and Analytics](#data-visualisation-and-analytics-f20dvf21dv)
+- [F20EC/F21EC - e-Commerce Technology](#e-commerce-technology-f20ecf21ec)
+- [F20FO/F21FO - Digital Forensics](#digital-forensics-f20fof21fo)
+- [F20GP/F21GP - Computer Games Programming](#computer-games-programming-f20gpf21gp)
+
+---
+
 
 ## Biologically Inspired Computation (F20BC/F21BC)
 
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20BC_202122.pdf)
 
+<!-- omit from toc -->
 ### Linear Algebra
 - Knowledge of **Fundamentals of Linear Algebra**, especially vector and matrix operations
   - [Matrix Introduction](https://mathinsight.org/matrix_introduction) - Math Insight
   - [Matrix Vector Multiplication](https://mathinsight.org/matrix_vector_multiplication) - Math Insight
 
+<!-- omit from toc -->
 ### Calculus
 - **Basics of Calculus**, especially calculating derivatives and chain rule derivative
   - [Differentiation](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new) - Khan Academy
@@ -42,13 +54,16 @@
 <br>
 
 - **Any programming language** with vector operations, preferably Python or Matlab. But Java can also do (however, you will miss the vector operations, unless you use a library such as [jama](https://math.nist.gov/javanumerics/jama/)).
+  <!-- omit from toc -->
   - #### Python (see also other references)
     - [Python for Beginners](https://youtu.be/kqtD5dpn9C8) - Programming with Mosh (YouTube)
     - [Python Tutorial - Full Course](https://youtu.be/_uQrJ0TkZlc) - Programming with Mosh (YouTube)
     - [Python Courses](https://python-course.eu/) - python-course.eu
+  <!-- omit from toc -->
   - #### Matlab
     - [Matlab Academy](https://matlabacademy.mathworks.com/)
 
+<!-- omit from toc -->
 ### (**Optional**)
 Some knowledge of data structures basic (Arrays, LinkedList, Stacks, Queues) and advanced (Disjoint Sets, Self-Balancing Trees, Segment Trees, Tries, quadtree...).<br>
 These are needed to understand implementation of meta-heuristic algorithms.
@@ -65,12 +80,15 @@ These are needed to understand implementation of meta-heuristic algorithms.
 ## Computer Network Security (F20CN/F21CN)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20CN_202122.pdf)
 
+<!-- omit from toc -->
 ### Python
 - [F28PL Python resources](Year2.md#python)
 
+<!-- omit from toc -->
 ### Bash
 - [BashGuide](http://mywiki.wooledge.org/BashGuide)
 
+<!-- omit from toc -->
 ### Security Concepts:
 - [Security in Computing](https://discovery.hw.ac.uk/permalink/f/1el5916/44hwa_alma2130258230003206) - If you are a book person
 - [University of Washington: Cybersecurity: The CISO's View](https://www.edx.org/learn/computer-programming/university-of-washington-cybersecurity-the-cisos-view) - edX Course
@@ -109,6 +127,7 @@ This is very brief, and should be followed by completing a further full Python o
 ## 3D Graphics and Animation (F20GA/F21GA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20GA_202122.pdf)
 
+<!-- omit from toc -->
 ### C++
 -
 
