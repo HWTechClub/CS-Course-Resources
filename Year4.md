@@ -181,6 +181,12 @@ This is very brief, and should be followed by completing a further full Python o
 ## Industrial Programming (F20SC/F21SC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20SC_202122.pdf)
 
+<!-- omit from toc -->
+### C#
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) - freeCodeCamp Certification<br>
+(Covers all the key basics required to know before the course begins, from )
+- [Learning C#](https://www.linkedin.com/learning/learning-c-sharp-8581491) - LinkedIn Learning Course
+
 ---
 <div align="right">
 
