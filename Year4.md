@@ -20,7 +20,7 @@
 - [F20FO - Digital Forensics](#digital-forensics-f20fo)
 - [F20GP - Computer Games Programming](#computer-games-programming-f20gp)
 
-## Biologically Inspired Computation (F20BC)
+## Biologically Inspired Computation (F20BC/F21BC)
 
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20BC_202122.pdf)
 
@@ -62,7 +62,7 @@ These are needed to understand implementation of meta-heuristic algorithms.
 
 </div>
 
-## Computer Network Security (F20CN)
+## Computer Network Security (F20CN/F21CN)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20CN_202122.pdf)
 
 ### Python
@@ -86,7 +86,7 @@ These are needed to understand implementation of meta-heuristic algorithms.
 
 </div>
 
-## Data Mining and Machine Learning (F20DL)
+## Data Mining and Machine Learning (F20DL/F21DL)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20DL_202122.pdf)
 
 Basic knowledge of Python is required. This includes some Python libraries like [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/). ([Scikit-Learn](https://scikit-learn.org/) & [TensorFlow](https://www.tensorflow.org/) is a plus)
@@ -106,7 +106,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## 3D Graphics and Animation (F20GA)
+## 3D Graphics and Animation (F20GA/F21GA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20GA_202122.pdf)
 
 ### C++
@@ -119,7 +119,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Information Systems Methodologies (F20IF)
+## Information Systems Methodologies (F20IF/F21IF)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20IF_202122.pdf)
 
 ---
@@ -129,7 +129,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Intelligent Robotics (F20RO)
+## Intelligent Robotics (F20RO/F21RO)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20RO_202122.pdf)
 
 ---
@@ -139,7 +139,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Rigorous Methods for Software Engineering (F20RS)
+## Rigorous Methods for Software Engineering (F20RS/F21RS)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20RS_202122.pdf)
 
 ---
@@ -149,7 +149,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Statistical Modelling and Analysis (F20SA)
+## Statistical Modelling and Analysis (F20SA/F21SA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20SA_202122.pdf)
 
 ---
@@ -159,7 +159,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Industrial Programming (F20SC)
+## Industrial Programming (F20SC/F21SC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20SC_202122.pdf)
 
 ---
@@ -169,7 +169,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Applied Text Analytics (F20AA)
+## Applied Text Analytics (F20AA/F21AA)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20AA_202122.pdf)
 
 - Basic knowledge of Machine Learning models and Evaluation Criteria
@@ -184,7 +184,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Advanced Interaction Design (F20AD)
+## Advanced Interaction Design (F20AD/F21AD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F2_202122.pdf)
 
 ---
@@ -194,7 +194,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Advanced Network Security (F20AN)
+## Advanced Network Security (F20AN/F21AN)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20AN_202122.pdf)
 
 ---
@@ -204,7 +204,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Big Data Management (F20BD)
+## Big Data Management (F20BD/F21BD)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20BD_202122.pdf)
 
 ---
@@ -214,7 +214,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Data Visualisation and Analytics (F20DV)
+## Data Visualisation and Analytics (F20DV/F21DV)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20DV_202122.pdf)
 
 ---
@@ -224,7 +224,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## e-Commerce Technology (F20EC)
+## e-Commerce Technology (F20EC/F21EC)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20EC_202122.pdf)
 
 ---
@@ -234,7 +234,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Digital Forensics (F20FO)
+## Digital Forensics (F20FO/F21FO)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20FO_202122.pdf)
 
 ---
@@ -244,7 +244,7 @@ This is very brief, and should be followed by completing a further full Python o
 
 </div>
 
-## Computer Games Programming (F20GP)
+## Computer Games Programming (F20GP/F21GP)
 [Course Details](https://www.hw.ac.uk/documents/pams/202122/F20GP_202122.pdf)
 
 ---
