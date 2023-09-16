@@ -83,19 +83,31 @@ These are needed to understand implementation of meta-heuristic algorithms.
 <!-- omit from toc -->
 ### Python
 - [F28PL Python resources](Year2.md#python)
+- [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-18764650/) - LinkedIn Learning Course
+- [Python Quick Start](https://www.linkedin.com/learning/python-quick-start-22667553/) - LinkedIn Learning Course
 
 <!-- omit from toc -->
-### Bash
+### Bash Scripting
 - [BashGuide](http://mywiki.wooledge.org/BashGuide)
+- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912/) - LinkedIn Learning Course
+- [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-17063287/) - LinkedIn Learning Course
 
 <!-- omit from toc -->
 ### Security Concepts:
-- [Security in Computing](https://discovery.hw.ac.uk/permalink/f/1el5916/44hwa_alma2130258230003206) - If you are a book person
+
+#### Online Courses
 - [University of Washington: Cybersecurity: The CISO's View](https://www.edx.org/learn/computer-programming/university-of-washington-cybersecurity-the-cisos-view) - edX Course
 - [Universidad Carlos III de Madrid: Cyber Security Basics: A Hands-on Approach](https://www.edx.org/learn/cybersecurity/universidad-carlos-iii-de-madrid-cyber-security-basics-a-hands-on-approach) - edX Course
 - [University of Washington: Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/university-of-washington-introduction-to-cybersecurity) - edX Course
 - [KU Leuven: Web Security Fundamentals](https://www.edx.org/learn/computer-programming/ku-leuven-web-security-fundamentals) - edX Course
 - [Delft University of Technology: Cyber Security Economics](https://www.edx.org/learn/computer-programming/ku-leuven-web-security-fundamentals) - edX Course
+
+#### Books
+- [Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin](https://people.scs.carleton.ca/~paulv/toolsjewels.html)
+- [Cryptography: An Introduction](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
+- [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
+- [Security in Computing](https://discovery.hw.ac.uk/permalink/f/1el5916/44hwa_alma2130258230003206) - If you are a book person
+
 
 ---
 <div align="right">
