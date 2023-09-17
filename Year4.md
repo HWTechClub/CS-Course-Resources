@@ -106,8 +106,7 @@ These are needed to understand implementation of meta-heuristic algorithms.
 - [Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin](https://people.scs.carleton.ca/~paulv/toolsjewels.html)
 - [Cryptography: An Introduction](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
 - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
-- [Security in Computing](https://discovery.hw.ac.uk/permalink/f/1el5916/44hwa_alma2130258230003206) - If you are a book person
-
+- [Security in Computing](https://discovery.hw.ac.uk/permalink/f/1el5916/44hwa_alma2130258230003206)
 
 ---
 <div align="right">
