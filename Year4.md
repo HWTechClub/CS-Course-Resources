@@ -197,6 +197,13 @@ This is very brief, and should be followed by completing a further full Python o
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) - freeCodeCamp Certification<br>
 (Covers all the key basics required to know before the course begins, from )
 - [Learning C#](https://www.linkedin.com/learning/learning-c-sharp-8581491) - LinkedIn Learning Course
+- [Getting Started as a C# Developer](https://www.linkedin.com/learning/paths/getting-started-as-a-c-sharp-developer) - LinkedIn Learning Path<br>
+(Covers almost all the courses suggested in the course page)
+<!-- - [C# Essential Training 1: Types and Control Flow](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/) - LinkedIn Learning Course
+- [C# Essential Training 2: Generics, Collections, and LINQ](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq) - LinkedIn Learning Course<br>
+(Chapter 7 on LINQ)
+- [C#: Delegates, Events, and Lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458) - LinkedIn Learning Course
+- [C#: Interfaces and Generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425) - LinkedIn Learning Course -->
 
 ---
 <div align="right">
