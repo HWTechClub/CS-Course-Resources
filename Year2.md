@@ -17,6 +17,7 @@
 ### Python
 - [Learning Python](https://www.linkedin.com/learning/learning-python-14393370) (LinkedIn Learning Course)
 - [F28PL Python](https://github.com/KayvanKarim/F28PLPython) (Python Code Samples from the lectures)
+- [Python Tutor](https://pythontutor.com/) - Provides a step-by-step visual debugger for your Python code
 - [Python For Everybody](https://www.coursera.org/specializations/python) (Coursera)
 
 ### OCaml
