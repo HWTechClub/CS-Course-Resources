@@ -5,10 +5,10 @@
 
 ## User-Centred Experimental Design (F28ED)
 
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28ED_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28ED?termcode=202324)
 
 ## Programming Languages (F28PL)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28PL_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28PL?termcode=202324)
 
 **For Windows Users:** Make sure you have [**WSL 2**](https://learn.microsoft.com/en-us/windows/wsl/install#upgrade-version-from-wsl-1-to-wsl-2) (**W**indows **S**ubsystem for **L**inux) setup on your machine with a Linux OS installed (usually Ubuntu LTS) before the course begins to have a smoother experience.
 
@@ -35,13 +35,13 @@
 - [and many more...](http://www.swi-prolog.org/Links.html)
 
 ## Introduction to Data Structures and Algorithms (F28SG)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28SG_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28SG?termcode=202324)
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Data Structures and Algorithms](https://practice.geeksforgeeks.org/courses/dsa-self-paced) - GeeksForGeeks
 - [Java Data Structures and Algorithms Masterclass](https://www.udemy.com/course/java-data-structures-and-algorithms-masterclass/) - Udemy
 
 ## Web Programming (F28WP)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28WP_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28WP?termcode=202324)
 
 - [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - freeCodeCamp (preferred)
 - [Web Development](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI) - Udacity
@@ -53,7 +53,7 @@
 # Semester 2
 
 ## Data Structures and Algorithms (F28DA)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28DA_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28DA?termcode=202324)
 - [Data Structures and Algorithms](https://practice.geeksforgeeks.org/courses/dsa-self-paced) - GeeksForGeeks
 - [Java Data Structures and Algorithms Masterclass](https://www.udemy.com/course/java-data-structures-and-algorithms-masterclass/) - Udemy
 
@@ -61,13 +61,13 @@
 - [Hashing Concepts](https://www.youtube.com/playlist?list=PLprfEn_dJT08ResHBUWgoS9qXnk29iHoM)
 
 ## Database Management Systems (F28DM)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28DM_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28DM?termcode=202324)
 
 - [Database Management Systems - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 - [SQL Murder Mystery](http://mystery.knightlab.com/) - Fun Game to learn SQL concepts and commands
 
 ## Hardware-Software Interface (F28HS)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28HS_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28HS?termcode=202324)
 
 - ### [F28HS Course Page](https://www.macs.hw.ac.uk/~hwloidl/Courses/F28HS/)
 
@@ -83,4 +83,4 @@
 (By far the best video so far that has all the concepts needed in one place)
 
 ## Introduction to Software Engineering (F28SD)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F28SD_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F28SD?termcode=202324)

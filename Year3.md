@@ -5,7 +5,7 @@
 
 ## Artificial Intelligence and Intelligent Agents (F29AI)
 
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29AI_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29AI?termcode=202324)
 - [Search 1 - Dynamic Programming, Uniform Cost Search](https://www.youtube.com/watch?v=aIsgJJYrlXk&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=18) - Stanford Online
 - [Search 2 - A*](https://www.youtube.com/watch?v=HEs1ZCvLH2s&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=19) - Stanford Online
 - [Markov Decision Processes 1](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=20) - Stanford Online
@@ -34,7 +34,7 @@
 - Prolog (Pokemon CW) -->
 
 ## Data Communications and Networking (F29DC)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29DC_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29DC?termcode=202324)
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)<br>
 (Super helpful sheet to help you understand subnetting)
 - [Networking Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg) - PowerCert Animated Videos
@@ -47,7 +47,7 @@ There is also a [YouTube playlist](https://youtube.com/playlist?list=PLTZYG7bZ1u
 
 
 ## Foundations 1 (F29FA)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29FA_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29FA?termcode=202324)
 
 - [Lambda Calculus - Numberphile](https://youtu.be/eis11j_iGMs)<br>
 (A general introductory video to Lambda Calculus)
@@ -62,7 +62,7 @@ There is also a [YouTube playlist](https://youtube.com/playlist?list=PLTZYG7bZ1u
 </details>
 
 ## Software Engineering (F29SO)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29SO_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29SO?termcode=202324)
 
 - [What is Agile/Scrum/Lean ?](https://youtu.be/WjwEh15M5Rw)
 - [USMx and UMD's Agile Project Management](https://www.edx.org/professional-certificate/umd-usmx-agile-project-management) - edX Course
@@ -71,14 +71,14 @@ There is also a [YouTube playlist](https://youtube.com/playlist?list=PLTZYG7bZ1u
 # Semester 2
 
 ## Foundations 2 (F29FB)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29FB_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29FB?termcode=202324)
 
 <!-- - Beginning is fine
 - Turing Machine
 - CW: Creating a Turing Machine -->
 
 ## Language Processors (F29LP)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29LP_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29LP?termcode=202324)
 
 - [F29LP Course Page](http://www.macs.hw.ac.uk/~gabbay/F29LP/)
 - [OCaml Programming - Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - YouTube
@@ -89,7 +89,7 @@ There is also a [YouTube playlist](https://youtube.com/playlist?list=PLTZYG7bZ1u
 -  -->
 
 ## Operating Systems and Concurrency (F29OC)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29OC_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29OC?termcode=202324)
 
 ### Operating Systems
 - [Operating System - Jenny's Lectures CS IT](https://youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa) - YouTube
@@ -104,7 +104,7 @@ Highly recommended to start off with (even in the course page, it is recommended
 - [Multithreading in Java Explained in 10 Minutes - Coding with John](https://youtu.be/r_MbozD32eo)
 
 ## Professional Development (F29PD)
-[Course Details](https://www.hw.ac.uk/documents/pams/202122/F29PD_202122.pdf)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F29PD?termcode=202324)
 
 <!-- - Debate
 	- Same group
