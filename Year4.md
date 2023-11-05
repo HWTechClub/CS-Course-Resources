@@ -205,6 +205,10 @@ This is very brief, and should be followed by completing a further full Python o
 - [C#: Delegates, Events, and Lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458) - LinkedIn Learning Course
 - [C#: Interfaces and Generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425) - LinkedIn Learning Course -->
 
+### Python
+- [F28PL Python resources](Year2.md#python)
+- [Crash Course in Python](https://www.coursera.org/learn/python-crash-course) - Coursera
+
 ---
 <div align="right">
 
