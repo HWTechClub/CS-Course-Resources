@@ -24,6 +24,8 @@
 - [OCaml Documentation](https://ocaml.org/docs/first-hour)
 - [OCaml Programming - Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - YouTube
 - [OCaml Tutorial - Fullstack Academy](https://youtu.be/PGGl5WcNOIU) - YouTube
+- [OCaml Exercises](https://exercism.org/tracks/ocaml) - Exercism<br>
+Coding exercises for Ocaml, available with help, testing for free
 
 ### Prolog
 <!-- Credits: https://exercism.org/docs/tracks/prolog/learning -->
