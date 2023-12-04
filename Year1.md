@@ -13,6 +13,7 @@
 ## Introduction to Interaction Design (F27ID)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F27ID?termcode=202324)
 
+- ### [F27ID Course Page](https://f27id.github.io/)
 - [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics) - **LinkedIn Learning** Course<br>
 (Essential for the prototyping part of this course)
 
