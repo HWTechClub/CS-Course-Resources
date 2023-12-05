@@ -45,6 +45,7 @@ Coding exercises for Ocaml, available with help, testing for free
 ## Web Programming (F28WP)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F28WP?termcode=202324)
 
+- ### [F28WP Course Page](https://f28wp.github.io/)
 - [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - freeCodeCamp (preferred)
 - [Web Development](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI) - Udacity
 - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Udemy
