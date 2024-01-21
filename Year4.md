@@ -289,6 +289,8 @@ This is very brief, and should be followed by completing a further full Python o
 ## Digital Forensics (F20FO/F21FO)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F20FO?termcode=202324)
 
+- [Digital Forensics - My CS](https://youtube.com/playlist?list=PLqrmzsjOpq5jKAIukDCX-TZYMtPOaKLRT&si=r62J4saWd1-E5_XD) - YouTube
+
 ---
 <div align="right">
 
