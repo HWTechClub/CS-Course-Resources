@@ -87,3 +87,6 @@ Coding exercises for Ocaml, available with help, testing for free
 
 ## Introduction to Software Engineering (F28SD)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F28SD?termcode=202324)
+
+- [UML Class Diagrams - Lucid Software](https://www.youtu.be/6XrL5jXmTwM) - YouTube
+- [What is Class Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/) - Visual Paradigm
