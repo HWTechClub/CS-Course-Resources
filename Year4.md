@@ -264,7 +264,7 @@ This is very brief, and should be followed by completing a further full Python o
 ## Data Visualisation and Analytics (F20DV/F21DV)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F20DV?termcode=202324)
 
-- ### [F20DV/F21CV Course Page](https://f21dv.github.io/)
+- ### [F20DV/F21DV Course Page](https://f21dv.github.io/)
 
 - [D3.js Documentation](https://d3js.org/what-is-d3)
 - [Data Visualization Certification (D3.js) - freeCodeCamp Certification](https://www.freecodecamp.org/learn/data-visualization/)
