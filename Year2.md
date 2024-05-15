@@ -74,6 +74,8 @@ Coding exercises for Ocaml, available with help, testing for free
 
 - ### [F28HS Course Page](https://www.macs.hw.ac.uk/~hwloidl/Courses/F28HS/)
 
+- [Getting started with Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started) - Raspberry Pi Foundation
+
 ### C (Programming Language)
 - [Learning C](https://www.linkedin.com/learning/learning-c-5) (LinkedIn Learning Course)
 - [C Essential Training](https://www.linkedin.com/learning/c-essential-training) (LinkedIn Learning Course)
