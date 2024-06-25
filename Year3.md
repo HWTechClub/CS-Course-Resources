@@ -12,7 +12,9 @@
 - [Markov Decision Processes 2](https://www.youtube.com/watch?v=HpaHTfY52RQ&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=21) - Stanford Online
 - [Minimax, Alpha-beta Pruning](https://www.youtube.com/watch?v=3pU-Hrz_xy4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&index=22) - Stanford Online
 - [Intro to AI course - UC Berkeley](http://ai.berkeley.edu/)
+- [CS 188 Intro to AI - UC Berkeley Lecture Videos](https://youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF&si=7iJvLYbfzmQelp43) - YouTube
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
+- [CS50's Introduction to AI - Harvard](https://youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&si=StzEKb1D-7LY5XMV) - YouTube
 
 #### Check out [Prolog](Year2.md#prolog) resources too
 
@@ -37,6 +39,7 @@
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F29DC?termcode=202324)
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)<br>
 (Super helpful sheet to help you understand subnetting)
+- [Introduction to Networking - Cisco x Effat University](https://youtube.com/playlist?list=PLnd7R4Mcw3rIo5hZp6JJa_UXg3NK5dd--&si=1Aeg-XJtI6UIffGT) - YouTube
 - [Networking Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg) - PowerCert Animated Videos
 - [Information Technology](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg) - PowerCert Animated Videos
 - [OSI Model](https://youtu.be/vv4y_uOneC0) - TechTerms
@@ -94,7 +97,8 @@ There is also a [YouTube playlist](https://youtube.com/playlist?list=PLTZYG7bZ1u
 ### Operating Systems
 - [Operating System - Jenny's Lectures CS IT](https://youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa) - YouTube
 - [Operating System - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - YouTube
-
+- [Operating Systems with Concurrency, System Adminstration and OS Security (Urdu/Hindi) - NUCES ](https://youtube.com/playlist?list=PLnd7R4Mcw3rLVqVWxTlC99FeDbzjJZO-F&si=pWAQCgsHYPAQ_uqd) - YouTube
+  
 ### Concurrency
 
 - [Java Concurrency and Multithreading - Jakob Jenkov](https://youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) - YouTube<br>
@@ -105,6 +109,7 @@ Highly recommended to start off with (even in the course page, it is recommended
 
 ## Professional Development (F29PD)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F29PD?termcode=202324)
+- [Firebase, Backend as a Service - Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb&si=oVBc7251sRICKbLh) - YouTube
 
 <!-- - Debate
 	- Same group
