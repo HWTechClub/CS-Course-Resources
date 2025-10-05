@@ -80,6 +80,8 @@ These are needed to understand implementation of meta-heuristic algorithms.
 ## Computer Network Security (F20CN/F21CN)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F20CN?termcode=202324)
 
+- [MACS4200: Cryptography - Playlist](https://youtube.com/playlist?list=PLE6ty64ouo1M7Xz6Qj5bgXZOoEE0qilX6) - YouTube
+
 <!-- omit from toc -->
 ### Python
 - [F28PL Python resources](Year2.md#python)
