@@ -11,15 +11,15 @@ jobs:
     steps:
     - uses: actions/first-interaction@v3
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: |
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        issue_message: |
           Hi there!
 
           🎉 Welcome to our GitHub repository! Thank you for opening your first issue. We appreciate your contribution to our project.
           Our team will look into the issue at the earliest. If you have any additional information or suggestions, feel free to share them. Your input is valuable to us.
 
           If you have any questions or need assistance, don't hesitate to reach out. Happy coding!
-        pr-message: |
+        pr_message: |
           Hi there!
 
           🚀 Congratulations on your first pull request! We're thrilled to see your contribution to our project.
