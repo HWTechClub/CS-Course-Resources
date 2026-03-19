@@ -3,7 +3,6 @@ name: New resource
 about: Suggest a new resource here and we'll add it in the list
 title: "[New Resource]"
 labels: enhancement
-assignees: cr2007, Irfan2309
 
 ---
 
