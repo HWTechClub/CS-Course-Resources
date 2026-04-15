@@ -40,6 +40,7 @@ Coding exercises for Ocaml, available with help, testing for free
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F28SG?termcode=202324)
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Data Structures and Algorithms](https://practice.geeksforgeeks.org/courses/dsa-self-paced) - GeeksForGeeks
+- [Java Data Structures and Algorithms for Beginners - Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=jhvT4txPyGSCe9Vx) - YouTube
 - [Java Data Structures and Algorithms Masterclass](https://www.udemy.com/course/java-data-structures-and-algorithms-masterclass/) - Udemy
 
 ## Web Programming (F28WP)
@@ -58,6 +59,7 @@ Coding exercises for Ocaml, available with help, testing for free
 ## Data Structures and Algorithms (F28DA)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F28DA?termcode=202324)
 - [Data Structures and Algorithms](https://practice.geeksforgeeks.org/courses/dsa-self-paced) - GeeksForGeeks
+- [Java Data Structures and Algorithms for Beginners - Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=jhvT4txPyGSCe9Vx) - YouTube
 - [Java Data Structures and Algorithms Masterclass](https://www.udemy.com/course/java-data-structures-and-algorithms-masterclass/) - Udemy
 
 ### Hashing
@@ -66,8 +68,10 @@ Coding exercises for Ocaml, available with help, testing for free
 ## Database Management Systems (F28DM)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F28DM?termcode=202324)
 
+- [CS50's Introduction to Databases - Harvard](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=l-tnY6i8LgnZ-LX9) - YouTube
 - [Database Management Systems - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 - [SQL Murder Mystery](http://mystery.knightlab.com/) - Fun Game to learn SQL concepts and commands
+- [Introduction to Database Systems (not recommended for beginners) - Carnegie Mellon University](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=I6C97lfsqrctqYAu) - YouTube
 
 ## Hardware-Software Interface (F28HS)
 [Course Details](https://curriculum.hw.ac.uk/coursedetails/F28HS?termcode=202324)
