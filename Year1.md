@@ -56,6 +56,7 @@
 
 ### Object Oriented Programming (OOPs)
 - [Java OOPs Concepts](https://www.javatpoint.com/java-oops-concepts) - JavaTPoint
+- [Java OOPs - Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=mYGXo3UQUvoRumFw) - YouTube
 
 ### Java Swing
 - [Java Swing Tutorials](https://www.javatpoint.com/java-swing) - JavaTPoint
@@ -105,6 +106,7 @@
 - [Ajax with PHP: Add Dynamic Content to Websites](https://www.linkedin.com/learning/ajax-with-php-add-dynamic-content-to-websites/welcome) - LinkedIn Learning Course
 
 #### SQL
+- [CS50's Introduction to Databases with SQL - Harvard](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=UKMaRFDw-aWhX4Tq) - YouTube
 - [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming) - LinkedIn Learning Course
 - [SQL Tutorial](https://www.w3schools.com/mysql/default.asp) - W3Schools
 - [SQL Murder Mystery](http://mystery.knightlab.com/) - Fun Game to learn SQL concepts and commands
