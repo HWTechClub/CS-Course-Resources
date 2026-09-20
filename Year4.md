@@ -271,6 +271,11 @@ This is very brief, and should be followed by completing a further full Python o
 - [D3.js Documentation](https://d3js.org/what-is-d3)
 - [Data Visualization Certification (D3.js) - freeCodeCamp Certification](https://www.freecodecamp.org/learn/data-visualization/)
 
+### DV concepts
+
+- [The Data Visualization Catalogue](https://datavizcatalogue.com)
+- [Data Viz Project](https://datavizproject.com)
+
 ---
 <div align="right">
 
