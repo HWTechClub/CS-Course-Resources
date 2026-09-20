@@ -5,25 +5,25 @@
 
 ## Logic and Proof (F17LP)
 
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F17LP?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F17LP?termcode=202627)
 
 - [Stanford Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 - [Logic 101 - Full Course](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on) - YouTube
 
 ## Introduction to Interaction Design (F27ID)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27ID?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27ID?termcode=202627)
 
 - ### [F27ID Course Page](https://f27id.github.io/)
 - [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics) - **LinkedIn Learning** Course<br>
 (Essential for the prototyping part of this course)
 
 ## Praxis (F27PX)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27PX?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27PX?termcode=202627)
 
 - [Skills Hub](https://isguides.hw.ac.uk/cs) - MACS
 
 ## Software Development 1 (F27SA)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27SA?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27SA?termcode=202627)
 
 - [Learning Java](https://www.linkedin.com/learning/learning-java-4) - **LinkedIn Learning** Course
 - [Full Java Tutorials](https://www.javatpoint.com/java-tutorial) - JavaTPoint
@@ -34,13 +34,13 @@
 # Semester 2
 
 ## Discrete Mathematics (F17SC)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F17SC?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F17SC?termcode=202627)
 
 - [Discrete Mathematics - ameenaacademy](https://www.youtube.com/playlist?list=PL5cAdrrdzlpF1vgdmulg5kSRvMOsaboXB)
 - [Discrete Math 1 - TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 
 ## Introduction to Computer Systems (F27CS)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27CS?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27CS?termcode=202627)
 
 - [MACS TEL - Resources](https://www.macs.hw.ac.uk/tel/resources/category/f27cx-main/) - TEL Resources for F27CX<br>
 (All the key concepts are covered in the videos)
@@ -52,7 +52,7 @@
 (Good for understandiung ARM basic concepts)
 
 ## Software Development 2 (F27SB)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27SB?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27SB?termcode=202627)
 
 ### Object Oriented Programming (OOPs)
 - [Java OOPs Concepts](https://www.javatpoint.com/java-oops-concepts) - JavaTPoint
@@ -61,7 +61,7 @@
 - [Java Swing Tutorials](https://www.javatpoint.com/java-swing) - JavaTPoint
 
 ## Web Design and Databases (F27WD)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27WD?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F27WD?termcode=202627)
 
 - [MACS TEL - F27WX](https://www.macs.hw.ac.uk/tel/resources/category/f27wx-main/) - TEL Resources for F27WX
 

@@ -32,7 +32,7 @@
 
 ## Biologically Inspired Computation (F20BC/F21BC)
 
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20BC?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20BC?termcode=202627)
 
 <!-- omit from toc -->
 ### Linear Algebra
@@ -78,7 +78,7 @@ These are needed to understand implementation of meta-heuristic algorithms.
 </div>
 
 ## Computer Network Security (F20CN/F21CN)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20CN?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20CN?termcode=202627)
 
 - [MACS4200: Cryptography - Playlist](https://youtube.com/playlist?list=PLE6ty64ouo1M7Xz6Qj5bgXZOoEE0qilX6) - YouTube
 
@@ -118,7 +118,7 @@ These are needed to understand implementation of meta-heuristic algorithms.
 </div>
 
 ## Data Mining and Machine Learning (F20DL/F21DL)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20DL?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20DL?termcode=202627)
 
 Basic knowledge of Python is required. This includes some Python libraries like [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/). ([Scikit-Learn](https://scikit-learn.org/) & [TensorFlow](https://www.tensorflow.org/) is a plus)
 
@@ -138,7 +138,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## 3D Graphics and Animation (F20GA/F21GA)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20GA?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20GA?termcode=202627)
 
 <!-- omit from toc -->
 ### C++
@@ -152,7 +152,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Information Systems Methodologies (F20IF/F21IF)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20IF?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20IF?termcode=202627)
 
 ---
 <div align="right">
@@ -162,7 +162,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Intelligent Robotics (F20RO/F21RO)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20RO?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20RO?termcode=202627)
 
 ---
 <div align="right">
@@ -172,7 +172,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Rigorous Methods for Software Engineering (F20RS/F21RS)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20RS?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20RS?termcode=202627)
 
 ---
 <div align="right">
@@ -182,7 +182,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Statistical Modelling and Analysis (F20SA/F21SA)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20SA?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20SA?termcode=202627)
 
 ---
 <div align="right">
@@ -192,7 +192,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Industrial Programming (F20SC/F21SC)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20SC?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20SC?termcode=202627)
 
 <!-- omit from toc -->
 ### C#
@@ -219,7 +219,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Applied Text Analytics (F20AA/F21AA)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20AA?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20AA?termcode=202627)
 
 - Basic knowledge of Machine Learning models and Evaluation Criteria
   - Preferably take [F20/F21DL](#data-mining-and-machine-learning-f20dl) in Semester 1
@@ -234,7 +234,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Advanced Interaction Design (F20AD/F21AD)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F2?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F2?termcode=202627)
 
 ---
 <div align="right">
@@ -244,7 +244,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Advanced Network Security (F20AN/F21AN)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20AN?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20AN?termcode=202627)
 
 ---
 <div align="right">
@@ -254,7 +254,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Big Data Management (F20BD/F21BD)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20BD?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20BD?termcode=202627)
 
 ---
 <div align="right">
@@ -264,7 +264,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Data Visualisation and Analytics (F20DV/F21DV)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20DV?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20DV?termcode=202627)
 
 - ### [F20DV/F21DV Course Page](https://f21dv.github.io/)
 
@@ -279,7 +279,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## e-Commerce Technology (F20EC/F21EC)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20EC?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20EC?termcode=202627)
 
 ---
 <div align="right">
@@ -289,7 +289,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Digital Forensics (F20FO/F21FO)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20FO?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20FO?termcode=202627)
 
 - [Digital Forensics - My CS](https://youtube.com/playlist?list=PLqrmzsjOpq5jKAIukDCX-TZYMtPOaKLRT&si=r62J4saWd1-E5_XD) - YouTube
 
@@ -301,7 +301,7 @@ This is very brief, and should be followed by completing a further full Python o
 </div>
 
 ## Computer Games Programming (F20GP/F21GP)
-[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20GP?termcode=202324)
+[Course Details](https://curriculum.hw.ac.uk/coursedetails/F20GP?termcode=202627)
 
 ---
 <div align="right">
